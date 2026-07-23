@@ -1,0 +1,74 @@
+{
+  "weekly_summary": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "nutrition_adherence": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "exercise_steps": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "sleep": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "water_intake": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "symptoms_stress": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "engagement_level": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "key_barriers": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "pending_actions": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "risk_attention_flags": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "recommended_next_action": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  },
+  "ai_transparency": {
+    "finding": "",
+    "category": "",
+    "evidence": [],
+    "confidence": ""
+  }
+}

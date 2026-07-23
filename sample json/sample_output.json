@@ -1,0 +1,182 @@
+{
+"Weekly Summary": {
+"summary": "The client maintained regular communication, reported partial adherence to nutrition and movement goals, experienced persistent bloating and acidity early in the week, faced significant work and school-related stress, had consistently low sleep for most of the week before improving on Day 8, and reported improved energy after achieving 8 hours of sleep.",
+"category": "AI Inference",
+"evidence": {
+"quotes": [
+"“Still having acidity and bloating.”",
+"“Yesterday energy was very good. Today feeling low again.”",
+"“There is a lot of office pressure and politics going on.”",
+"“Slept better last night, around 8 hours. Energy feels much better today.”"
+],
+},
+"confidence": "High"
+},
+"Nutrition Adherence": {
+"finding": "Nutrition adherence was inconsistent. The client often ate healthy foods but occasionally delayed meals, skipped meals, forgot planned habits, and had low protein intake on some days.",
+"category": "AI Inference",
+"evidence": {
+"quotes": [
+"“Lunch was kadhi with soya and green vegetables.”",
+"“Didn’t eat much in the evening. Just a small piece of paneer.”",
+"“No. I didn’t get time.”",
+"“Forgot ACV today. Not yet in the habit.”",
+"“Protein seems low in breakfast on some days.”",
+"“Food intake was low today. Protein was also missing.”"
+],
+},
+"confidence": "High"
+},
+"Exercise / Steps": {
+"finding": "The client consistently performed physical activity, including walking, household work, stretching, running, breathing exercises and Surya Namaskar. Reported steps ranged from 4,500 to around 8,000.",
+"category": "Confirmed Fact",
+"evidence": {
+"quotes": [
+"“Did some mopping, sweeping, Surya Namaskar and walking inside the house.”",
+"“Steps around 8,000, Exercise only walking.”",
+"“4,500 steps so far.”",
+"“Did around 20 minutes walking, stretching and breathing today.”",
+"“Did 20 minutes stretching and running.”",
+"“Steps 6,000 today.”",
+"“Did 30 minutes exercise.”",
+"“Steps around 8,000.”"
+],
+},
+"confidence": "High"
+},
+"Sleep": {
+"finding": "Sleep was inadequate for most of the period (about 5–5.5 hours) before improving to approximately 8 hours on Day 8, with better energy afterward.",
+"category": "Confirmed Fact",
+"evidence": {
+"quotes": [
+"“Slept only around 5 hours last night.”",
+"“Sleep 5 hours.”",
+"“Sleep around 5.5 hours.”",
+"“Slept better last night, around 8 hours.”",
+"“Energy feels much better today.”"
+],
+},
+"confidence": "High"
+},
+"Water Intake": {
+"finding": "Water intake was reported as 4 litres on one day and around 3.5 litres on another.",
+"category": "Confirmed Fact",
+"evidence": {
+"quotes": [
+"“Walk and water done.”",
+"“Water 4 litres.”",
+"“Water around 3.5 litres.”"
+],
+},
+"confidence": "High"
+},
+"Symptoms / Stress": {
+"finding": "The client reported acidity, bloating, fatigue, low energy, stress from work, and feeling emotionally low. Symptoms improved after better sleep, although bloating persisted intermittently.",
+"category": "Client Reported",
+"evidence": {
+"quotes": [
+"“Feeling some acidity since morning.”",
+"“Still having acidity and bloating.”",
+"“Yesterday energy was very good. Today feeling low again.”",
+"“There is a lot of office pressure and politics going on.”",
+"“I was so tired that my head went down on the table and I actually slept for a few seconds.”",
+"“Feeling very low.”",
+"“I feel I can sleep for days.”",
+"“Still having bloating on and off.”",
+"“Overall energy is much better than before.”"
+],
+},
+"confidence": "High"
+},
+"Engagement Level": {
+"finding": "The client demonstrated high engagement by providing regular updates, responding to coaching, acknowledging habits to improve, and implementing recommendations.",
+"category": "AI Inference",
+"evidence": {
+"quotes": [
+"“Yes, will do.”",
+"“ACV done today.”",
+"“Trying to eat slowly.”",
+"“Sorry I missed your call.”",
+"“Weight is around 83 kg.”"
+],
+},
+"confidence": "High"
+},
+"Key Barriers": {
+"finding": "Major barriers included limited time due to school and work, difficulty planning meals, poor sleep, work stress, and inconsistent meal timing.",
+"category": "AI Inference",
+"evidence": {
+"quotes": [
+"“Very hectic morning.”",
+"“No. I didn’t get time.”",
+"“I am not getting enough time to plan meals.”",
+"“There was a stressful situation at work.”",
+"“There is a lot of office pressure and politics going on.”",
+"“Slept only around 5 hours last night.”"
+],
+},
+"confidence": "High"
+},
+"Pending Actions": {
+"finding": "Continue building consistent habits around vegetables, meal timing, ACV, protein intake, sleep, and symptom tracking.",
+"category": "Confirmed Fact",
+"evidence": {
+"quotes": [
+"“Will do it tomorrow.”",
+"“Set a reminder around meal timings.”",
+"“Yes, will do.”",
+"“Have ordered them.”",
+"“Let’s continue tracking sleep, bloating, meals and movement consistently.”"
+],
+},
+"confidence": "High"
+},
+"Risk / Attention Flags": {
+"finding": "Persistent low sleep, ongoing bloating, severe fatigue, and high work-related stress warrant close coaching attention.",
+"category": "AI Inference",
+"evidence": {
+"quotes": [
+"“Sleep 5 hours.”",
+"“Still having acidity and bloating.”",
+"“I actually slept for a few seconds.”",
+"“Feeling very low.”",
+"“Please rest today. We also need to look at your sleep and stress more carefully.”"
+],
+},
+"confidence": "High"
+},
+"Recommended Next Action for the Coach": {
+"finding": "Prioritize sleep and stress management, reinforce practical meal planning with adequate protein, monitor persistent bloating, and encourage continued tracking of sleep, meals, water, and movement.",
+"category": "AI Inference",
+"evidence": {
+"quotes": [
+"“Food intake was low today. Protein was also missing.”",
+"“That could be one of the main barriers right now. Let’s keep the plan practical.”",
+"“Please rest today. We also need to look at your sleep and stress more carefully.”",
+"“Let’s continue tracking sleep, bloating, meals and movement consistently.”"
+],
+},
+"confidence": "High"
+},
+"Supporting Evidence": {
+"category": "Confirmed Fact",
+"evidence": {
+"quotes": [
+"“Water 4 litres.”",
+"“Sleep around 5.5 hours.”",
+"“Steps around 8,000.”",
+"“Still having bloating on and off.”",
+"“Energy feels much better today.”"
+],
+},
+"confidence": "High"
+},
+"AI Transparency": {
+"summary": "All findings are derived only from the provided conversation. No medical diagnoses were inferred. Behavioral summaries are marked as AI Inference only when supported by multiple observations. Missing information was not fabricated.",
+"category": "Confirmed Fact",
+"evidence": {
+"quotes": []
+},
+"confidence": "High"
+}
+}
